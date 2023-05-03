@@ -25,7 +25,7 @@
 
 /*    Imagen principal    */
 .fondo {
-    background-image: url("./fotos/hawaii.jpg");
+    background-image: url("./Fotos/hawaii.jpg");
     height: 80vh;
     background-position: center;
     background-size: cover;
